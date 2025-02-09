@@ -74,3 +74,5 @@ This project detects finger count in real-time using **MediaPipe** and controls 
 ## License
 
 This project is open-source and available under the MIT License.
+
+## Youtube Video: https://www.youtube.com/watch?v=-hDzeOyrKfs
